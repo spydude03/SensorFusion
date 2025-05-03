@@ -8,7 +8,7 @@
   mediapipe == 0.8.2
 
 2. Connection test
-2.1 First, connect dji tello drone, then run the "drone connection test.py" python file
+  2.1 First, connect dji tello drone, then run the "drone connection test.py" python file
   On successful connection i will see:
     1. Connection test:
   Send command: command
