@@ -39,9 +39,9 @@ If everything is okay and you don't have any problems, open "main.py" and run th
 
 | **Finger Count** | **Drone Action** | **Code** |
 |-----------------|-----------------|----------|
-| 0              | Land            |     <img src="images/0.jpg" width="50">     |
-| 1              | Move Forward    |     <img src="images/1.jpg" width="50">     |
-| 2              | Move Backward   |     <img src="images/2.jpg" width="50">     |
-| 3              | Move Left       |     <img src="images/3.jpg" width="50">     |
-| 4              | Move Right      |     <img src="images/4.jpg" width="50">     |
-| 5              | Takeoff         |     <img src="images/5.jpg" width="50">     |
+| 0              | Land            |     <img src="images/0.png" width="50">     |
+| 1              | Move Forward    |     <img src="images/1.png" width="50">     |
+| 2              | Move Backward   |     <img src="images/2.png" width="50">     |
+| 3              | Move Left       |     <img src="images/3.png" width="50">     |
+| 4              | Move Right      |     <img src="images/4.png" width="50">     |
+| 5              | Takeoff         |     <img src="images/5.png" width="50">     |
