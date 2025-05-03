@@ -8,7 +8,7 @@
   mediapipe == 0.8.2
 
 2. Connection test
-  First, connect dji tello drone, then run the "drone connection test.py" python file
+2.1 First, connect dji tello drone, then run the "drone connection test.py" python file
   On successful connection i will see:
     1. Connection test:
   Send command: command
@@ -17,7 +17,7 @@
   Send command: streamon
   Response: b'ok'
 
-  If you get such output, you need to check your connection with the drone
+2.2 If you get such output, you need to check your connection with the drone:
     1. Connection test:
   Send command: command
   Timeout exceed on command command
