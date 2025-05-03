@@ -1,28 +1,21 @@
-# SensorFusion
+# SensorFusion Project
 
-1. Installing pip packages
-  First, we need to install python libraries. Make sure you that you are using PYTHON 3.7:
-  djitellopy == 1.5
-  numpy == 1.19.3
-  opencv_python == 4.5.1.48
-  mediapipe == 0.8.2
+This project involves working with DJI Tello drone using Python for sensor fusion applications.
 
-2. Connection test
-  2.1 First, connect dji tello drone, then run the "drone connection test.py" python file
-  On successful connection i will see:
-    1. Connection test:
-  Send command: command
-  Response: b'ok'
-    2. Video stream test:
-  Send command: streamon
-  Response: b'ok'
+## Prerequisites
 
-2.2 If you get such output, you need to check your connection with the drone:
-    1. Connection test:
-  Send command: command
-  Timeout exceed on command command
-  Command command was unsuccessful. Message: False
-    2. Video stream test:
-  Send command: streamon
-  Timeout exceed on command streamon
-  Command streamon was unsuccessful. Message: False
+- Python 3.7
+- Required Python packages:
+djitellopy == 1.5
+numpy == 1.19.3
+opencv-python == 4.5.1.48
+mediapipe == 0.8.2
+
+## Setup Instructions
+
+### 1. Installing pip packages
+
+First, install the required Python libraries. Make sure you are using Python 3.7:
+
+```bash
+pip install djitellopy==1.5 numpy==1.19.3 opencv-python==4.5.1.48 mediapipe==0.8.2
