@@ -34,3 +34,14 @@ First, connect dji tello drone, then run the "drone connection test.py" python f
 
 ## 3. Main part  
 If everything is okay and you don't have any problems, open "main.py" and run this code.
+
+## 4. Gestures
+
+| **Finger Count** | **Drone Action** | **Code** |
+|-----------------|-----------------|----------|
+| 0              | Land            |          |
+| 1              | Move Forward    |          |
+| 2              | Move Backward   |          |
+| 3              | Move Left       |          |
+| 4              | Move Right      |          |
+| 5              | Takeoff         |          |
